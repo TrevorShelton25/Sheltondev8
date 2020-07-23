@@ -1,0 +1,43 @@
+body {
+  height: 600px;
+  width: 200px;
+  position: fixed;
+}
+
+footer {
+  height: 200px;
+  width: 800%;
+  border-top: solid 1px #000;
+  Position: absolute;
+  top:100%
+  
+}
+
+#textInputId {
+    height:50px;
+    width:300px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 300%
+}
+
+#btnId {
+    height:50px;
+    width:50px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 450%
+    
+}
+
+#someOtherDivId {  
+    height:50px;
+    width:50px;
+    text-align: center;
+    position: absolute;
+    top: 60%;
+    left: 360%
+ 
+}
